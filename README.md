@@ -2,7 +2,9 @@
 
 Bypass av reverse shell in windows with C# 
 
-![image](https://i.ibb.co/WvSqdk2/IMG-0970.png)
+<img width="3840" height="818" alt="image" src="https://github.com/user-attachments/assets/689ad44c-2924-407d-abce-63933f79aa95" />
+
+
 
 ## POC
 
