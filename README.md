@@ -20,5 +20,5 @@ Bypass av reverse shell in windows with C#
 
 ## Compile & run commands in windows 
 
-git clone https://github.com/blue0x1/av-bypass.git && cd bypass-av-windows && dotnet build && dotnet run
+git clone https://github.com/blue0x1/av-bypass.git && cd av-bypass && dotnet build && dotnet run
 
